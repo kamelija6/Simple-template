@@ -1,0 +1,31 @@
+.services{
+  background-color: rgb(232, 232, 232);
+}
+
+.srvice-title h1{
+  font-size: 45px;
+  padding: 80px;
+  width: 150px;
+  margin-left: 150px;
+  position: absolute;
+}
+
+.services-items ul li{
+  margin-left: 750px;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.services-items{
+  display: inline-block;
+ margin-top: 15px;
+ margin-bottom: 15px;
+ /* position: absolute; */
+}
+.srvice-disc{
+  display: inline-block;
+  width: 350px;
+  margin-left: 150px;
+ position: absolute;
+ margin-top: 30px;
+
+}

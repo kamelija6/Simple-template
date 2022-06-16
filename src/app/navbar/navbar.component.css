@@ -1,0 +1,65 @@
+.nav-container{
+  background-color: rgb(24, 159, 244);
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 100px;
+  color: white;
+}
+
+.logo{
+  margin-left: 50px;
+}
+.logo h2{
+  padding: 30px;
+
+}
+.active{
+  opacity: 1;
+}
+
+.menu ul li{
+  list-style-type: none;
+  display: inline-block;
+  padding: 30px;
+  margin-right: 50px;
+  opacity: 0.9;
+}
+
+
+.menu ul li:hover{
+  opacity: 1;
+  background-color: rgb(206, 206, 206) transparent;
+}
+
+.main-container{
+  background-image: url('/assets/images/Banner3.png');
+  width: 100%;
+  height:550px;
+}
+.about{
+  text-align: center;
+  display: inline-block;
+  padding: 100px;
+  margin-left: 150px;
+}
+.about h5{
+  padding: 15px;
+  padding-bottom: 25px;
+}
+.about h1{
+  font-size: 25px;
+}
+.disc-one{
+  width: 350px;
+  /* display: inline-block; */
+  /* margin-top: -22px; */
+  margin-left: 38px;
+}
+.disc-two{
+   width: 350px;
+   margin-left: 450px;
+   position: relative;
+   margin-top: -120px;
+}

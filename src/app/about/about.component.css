@@ -1,0 +1,33 @@
+.about-container{
+  background-color: aliceblue;
+}
+
+.bg{
+  width: 350px;
+  height: 650px;
+  background-color: rgb(24, 159, 244);
+  position: absolute;
+  margin-left: 800px;
+  margin-top: 15px;
+}
+.img{
+  margin-top: 90px;
+  margin-left: 750px;
+  position: absolute;
+}
+.about{
+  width: 400px;
+  height: 250px;
+  margin-top: 350px;
+ background-color: rgb(223, 224, 224);
+  margin-left: 440px;
+  position: absolute;
+  text-align: center;
+  padding: 15px;
+}
+.about h2{
+  margin-top: 15px;
+}
+.about p{
+  padding: 25px;
+}

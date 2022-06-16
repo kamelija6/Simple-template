@@ -1,0 +1,21 @@
+.our-misson{
+  background-color: rgb(24, 159, 244);
+  color: white;
+  margin-top: 55px;
+}
+
+.misson{
+  width: 800px;
+  margin-left: 350px;
+  padding: 25px;
+}
+.misson h1{
+  margin: 10px;
+  font-size: 25px;
+}
+.misson ul{
+  margin-left: 50px;
+}
+.misson ul li{
+  padding: 15px;
+}

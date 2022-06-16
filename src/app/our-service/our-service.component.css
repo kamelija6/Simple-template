@@ -1,0 +1,56 @@
+.out-container{
+  position: relative;
+  margin-top: 800px;
+  margin-left: 25px;
+
+}
+.our{
+  width: 400px;
+  height: 300px;
+  text-align: center;
+  padding: 5px;
+  display: inline-block;
+  margin: 0 45px;
+  padding-top: 15px;
+  background-color: rgb(220, 219, 219);
+}
+.head{
+  justify-content: center;
+  align-items: center;
+  width: 950px;
+  height: 200px;
+  margin: 5px;
+  margin-left: 350px;
+
+}
+.head h1{
+  text-align: center;
+  margin: 15px;
+  font-size: 35px;
+}
+.head p{
+  text-align: center;
+
+}
+span{
+  background-color: rgb(24, 159, 244);;
+  width: 50px;
+  height: 50px;
+  padding: 15px;
+  border-radius: 150px;
+  color: #fff;
+}
+
+.fas {
+
+  margin: 15px;
+  text-align: center;
+  justify-content: center;
+}
+p{
+  color: rgb(65, 64, 64);
+  margin: 15px;
+}
+h2{
+  margin: 15px;
+}
